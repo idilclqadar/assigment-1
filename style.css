@@ -1,0 +1,39 @@
+ body{
+    background: #bdc646;
+ }
+ h1{
+    color: #9b79b8;
+ }
+ h2{
+    color: yellow;
+ }
+ li{
+    color: #0518c4;
+ }
+ p{
+    background: white;
+    padding: 10px;
+ }
+ input{
+    border: 2px solid red ;
+ }
+ .hello{
+    background: blue;
+    color: white;
+ }
+ #sp{
+    border: 5px solid orange;
+ }
+ input[type="text"]{
+    background: green;
+    color: white;
+ }
+ label{
+    text-transform: uppercase;
+ }
+ #sp:first-letter{
+    color: green;
+    font-size: 100px;
+
+ }
+ 
